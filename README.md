@@ -51,7 +51,7 @@ You can deploy this bot for free on the following platforms:
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Malaka-KG/MALAKA-MD-V1' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/MALAKA-SL/MALAKA-MD-V1' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
