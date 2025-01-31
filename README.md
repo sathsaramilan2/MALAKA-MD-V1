@@ -1,4 +1,4 @@
-<a href="https://github.com/Malaka-KG/MALAKA-MD-V1"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=MALAKA-MD-V1.0" alt="Typing SVG" /></a>
+<a href="https://github.com/MALAKA-SL/MALAKA-MD-V1"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=MALAKA-MD-V1.0" alt="Typing SVG" /></a>
   </p>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -9,17 +9,17 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MALAKA-MD-V1}/count.svg" alt="Malaka-KG :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Malaka-KG}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MALAKA-MD-V1}/count.svg" alt="MALAKA-SL :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MALAKA-SL}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/Malaka-KG/MALAKA-MD-V1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Malaka-KG&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/MALAKA-SL/MALAKA-MD-V1"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MALAKA-SL&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/Malaka-KG/MALAKA-MD-V1"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/MALAKA-SL/MALAKA-MD-V1"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ***
@@ -110,16 +110,16 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMALAKA-SL%2FMALAKA-MD-V1-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/Malaka-KG/MALAKA-MD-V1?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/Malaka-KG/MALAKA-MD-V1?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/MALAKA-SL/MALAKA-MD-V1?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/MALAKA-SL/MALAKA-MD-V1?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/Malaka-KG/MALAKA-MD-V1?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/Malaka-KG/MALAKA-MD-V1?style=social)
+![forks](https://img.shields.io/github/forks/MALAKA-SL/MALAKA-MD-V1?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/MALAKA-SL/MALAKA-MD-V1?style=social)
 
-![size](https://img.shields.io/github/repo-size/Malaka-KG/MALAKA-MD-V1?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/Malaka-KG/MALAKA-MD-V1?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/MALAKA-SL/MALAKA-MD-V1?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/MALAKA-SL/MALAKA-MD-V1?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=MALAKA%20MD&color=purple&style=plastic)
 ----
 
