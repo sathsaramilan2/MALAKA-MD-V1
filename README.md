@@ -29,7 +29,7 @@
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
 <p align="center">
-<a href='https://github.com/Malaka-KG/MALAKA-MD-V1/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://github.com/MALAKA-SL/MALAKA-MD-V1/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=150 height=28/p></a>
 
 ### 2. Get Session ID 
 
